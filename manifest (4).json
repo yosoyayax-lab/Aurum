@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Aurum",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Aurum",
+  "start_url": "/https://yosoyayax-lab.github.io/Aurum/",
+  "theme_color": "#080808"
+}
